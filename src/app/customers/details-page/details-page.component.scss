@@ -1,0 +1,20 @@
+:host {
+    text-align: center;
+    padding: 24px;
+}
+
+pre {
+    word-break: break-all;
+    white-space: break-spaces;
+}
+
+mat-card {
+    max-width: 450px;
+    background-color: #212121;
+    margin: 0 auto 10px;
+}
+
+img {
+    max-height: 40vh;
+    object-fit: cover;
+}
